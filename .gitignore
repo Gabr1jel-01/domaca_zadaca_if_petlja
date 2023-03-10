@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+if_zadaca/
 
 # Spyder project settings
 .spyderproject
